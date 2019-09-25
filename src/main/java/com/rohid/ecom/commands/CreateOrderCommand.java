@@ -23,5 +23,6 @@ public class CreateOrderCommand {
         this.price = price;
         this.currency = currency;
         this.orderStatus = orderStatus;
+        
     }
 }
